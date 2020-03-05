@@ -1,2 +1,2 @@
 # FaceData
-Face data with Gender, hat, glasses, senior age
+Face data with gender, hat, glasses, senior age categories
